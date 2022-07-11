@@ -5,3 +5,15 @@ This repository contains source code and sample data for the priority map module
 
 
 ![system](/fig_flpm_git.png)
+
+### Requirements
+Python version >= 3.7
+
+PyTorch version >= 1.4.0
+
+``` bash
+# clone the repository
+git clone https://github.com/JasonArmitage-res/PM-VLN.git
+cd PM-VLN
+pip install -r requirements.txt
+```
