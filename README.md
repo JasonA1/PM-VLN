@@ -24,5 +24,5 @@ This repository contains source code and data samples to run the FL<sub>PM</sub>
 ### Data Samples
 We present in this repository samples from the 3 following datasets:
  - VLN-Touchdown-sample - samples adapted from the Touchdown and StreetLearn datasets.
- - MC-10 - JSON file and 5 sample images for entities.
+ - MC-10 - JSON file and 5 sample images of entities.
  - TR-NY-PIT-central - JSON and 5 sample images of path traces.
