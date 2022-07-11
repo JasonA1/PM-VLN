@@ -4,4 +4,4 @@ This repository contains source code and sample data for the priority map module
 
 **PM-VLN module in the FL\textsubscript{PM} Framework**
 
-![system](/fig_fl_pm_fn.pdf)
+![system](/fig_flpm_git.png)
